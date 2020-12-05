@@ -22,12 +22,12 @@ main  {
   margin : auto;
 }
 
-main a {
+a {
   text-decoration: none;
 }
 
 
-main h1 {
+h1 {
   font-family: 'Lato', serif;
 	font-size: 45px;
 	font-weight: 600;
@@ -37,7 +37,7 @@ main h1 {
   margin : 20px 0 13px 0;
 }
 
-main .author {
+.author {
   font-family: 'Lato', serif;
   margin : 0px;
   color : #979797;
@@ -45,12 +45,12 @@ main .author {
   font-size : 13px;
 }
 
-main .author-name {
+.author-name {
   color: #e6373a;
 }
 
 
-main .date {
+.date {
   font-size : 14px;
   font-family: 'Lato', sans-serif;
   margin : 3px 0px 20px 0px;
@@ -58,7 +58,7 @@ main .date {
   font-style :normal;
 }
 
-main .date a {
+.date a {
   text-decoration: none;
     color : #979797;
 }
@@ -120,7 +120,7 @@ cite {
   margin : 0px;
 }
 
-main h2 {
+h2 {
   font-family: 'Lato', serif;
 	font-size: 30px;
 	font-weight: bold;
