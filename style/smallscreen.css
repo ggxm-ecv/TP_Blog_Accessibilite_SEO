@@ -40,7 +40,7 @@ h1 {
 .author {
   font-family: 'Lato', serif;
   margin : 0px;
-  color : #979797;
+  color : #6b6b6b;
   font-style: italic;
   font-size : 13px;
 }
@@ -54,13 +54,13 @@ h1 {
   font-size : 14px;
   font-family: 'Lato', sans-serif;
   margin : 3px 0px 20px 0px;
-  color : #979797;
+  color : #6b6b6b;
   font-style :normal;
 }
 
 .date a {
   text-decoration: none;
-    color : #979797;
+    color : #6b6b6b;
 }
 
 .txt-courant {
@@ -86,7 +86,7 @@ figcaption {
   font-size: 11px;
   line-height: 2.0;
   text-align: left;
-  color: #979797;
+  color: #6b6b6b;
 }
 
 
@@ -116,7 +116,7 @@ cite {
   font-size: 16px;
   font-weight: normal;
   line-height: 2.0;
-  color: #979797;
+  color: #6b6b6b;
   margin : 0px;
 }
 
